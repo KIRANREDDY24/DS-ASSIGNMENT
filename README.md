@@ -88,7 +88,11 @@ FAC_5038 --> 1
 FAC_5039 --> 3                            
 FAC_5044 --> 1                              
 FAC_5046 --> 1                         
-FAC_5052 --> 2                  
+FAC_5052 --> 2 
+
+
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/trainers.png)
                                                       
                                                      
 
@@ -99,6 +103,9 @@ FAC_5052 --> 2
 4:00 pm  --->  10         
 6:00 pm  --->  16          
 6:15 pm  --->  10           
+
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/timeslot.png)
 
 
 
@@ -114,11 +121,12 @@ FAC_5052 --> 2
 'Rocking with Rhymes'        --->5                   
 'Name it'                    --->10                 
 'Making Connections'         --->6             
-"In my mind's eye"           --->8                  
+"In my mind's eye"           --->8     
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/topic.png)
 
 
 4.
-
 
 
 
@@ -136,7 +144,9 @@ FAC_5052 --> 2
 'b1rmsms'        --->3                       
 'b2rmsms'        --->2                     
 'adarsh'         --->1                     
-'b3rmsms'        --->1                
+'b3rmsms'        --->1    
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/source.png)
 
 
 5.
@@ -146,7 +156,10 @@ FAC_5052 --> 2
 'Grade 1'        --->9            
 'Grade 2'        --->17                
 'Grade 3'        --->14              
-'Grade 4'        --->19             
+'Grade 4'        --->19       
+
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/grades.png)
 
 
 6.
@@ -160,5 +173,8 @@ i have written script to extract sales conversion it took less than 3 minutes to
 'Present',   ---> 53     ---> 90% (approx)                           
 ''           --->  2     ---> 3.3% (approx)          
 'Absent'     --->  3     ---> 5% (approx)           
-'Cancelled'  --->  1     ---> 1.7%  (approx)                 
+'Cancelled'  --->  1     ---> 1.7%  (approx)  
+
+
+![alt text](https://github.com/KIRANREDDY24/DS-ASSIGNMENT/blob/master/attendance.png)
 
