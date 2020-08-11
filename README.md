@@ -52,6 +52,8 @@ so we made the excel sheet containing(phone number, email-id,trainer,topic,grade
 with help of the final csv file(extreme.csv) we answer all the questions in the problem statement.
 
 
+5) "TOTALLY THERE ARE 60 UNIQUE USERS WHO BROUGHT FOR 499 OR ABOVE OUT OF THEM I'M UNABLE TO FIND ONE USER DATA".
+
 
                                                          answers
 
